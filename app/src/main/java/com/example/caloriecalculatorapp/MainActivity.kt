@@ -45,7 +45,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     private fun sendResultToActivity() {
         val selectedId: Int? = radioGroup?.checkedRadioButtonId
         radioButton = findViewById(selectedId!!)
