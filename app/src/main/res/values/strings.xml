@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calorie Calculator App</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="weight_kg">Weight (KG)</string>
+    <string name="height_cm">Height (CM)</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="gender">Gender</string>
+    <string name="results">Results</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+</resources>

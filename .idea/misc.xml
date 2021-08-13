@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/drawable/black_border.xml" value="0.37864583333333335" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/drawable/border.xml" value="0.37864583333333335" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/drawable/edit_txt_border.xml" value="0.37864583333333335" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/drawable/radio_btn_border.xml" value="0.37864583333333335" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/drawable/remove_line.xml" value="0.37864583333333335" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/layout-v28/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Projects/CalorieCalculatorApp/app/src/main/res/layout/activity_result.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
