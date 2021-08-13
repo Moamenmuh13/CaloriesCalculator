@@ -61,7 +61,6 @@ class MainActivity : AppCompatActivity() {
         age = ageNum.text.toString().toDoubleOrNull()
     }
 
-
     private fun caloriesCalculateForMale() {
         setValues()
         if (isDataEmpty()) {
@@ -72,8 +71,6 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Try entering data", Toast.LENGTH_SHORT).show()
             }
         }
-
-
     }
 
     private fun caloriesCalculateForFemale() {
@@ -88,13 +85,11 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     private fun caloriesResults(genderBMR: Double): Double? {
         RESULTS =
             (WEIGHT_BMR * weightKG!!) + (HEIGHT_BMR * heightCM!!) - (AGE_BMR * age!!) - (genderBMR)
         return RESULTS
     }
-
 
     private fun startingActivity() {
         startActivity(
